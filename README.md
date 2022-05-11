@@ -19,17 +19,16 @@ municipality = "Consolacion"
 # we had to predict the population ten years from now (2022 as of writing)
 years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032] 
 
-
 """
     p = Starting Population
     pt = Ending Population
     starting_year = Starting Year of your population data
     ending_year = Ending Year of your population data
 """
-    p = 131528 # Change to your Starting Population (See above for example)
-    pt = 148012 # Change to you Ending Population (See above for example)
-    starting_year = 2015 # Starting Year from your starting Population
-    ending_year = 2020 # Ending Year from your ending Population
+p = 131528 # Change to your Starting Population (See above for example)
+pt = 148012 # Change to you Ending Population (See above for example)
+starting_year = 2015 # Starting Year from your starting Population
+ending_year = 2020 # Ending Year from your ending Population
 ```
 
 
