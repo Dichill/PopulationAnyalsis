@@ -15,6 +15,13 @@ much easier, and with it, it also helped me how to solve Math Problems. I hope i
 
 # From the code, simply change the code from the data that you have as shown below.
 
+# What municipality were you conducting from?
+municipality = "Consolacion" 
+
+# Starting from the starting year 2015, we go upto 2032. Since in our Math Project we had to predict the population ten years from now (2022 as of writing)
+years = [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026, 2027, 2028, 2029, 2030, 2031, 2032] 
+
+
 """
     p = Starting Population
     pt = Ending Population
