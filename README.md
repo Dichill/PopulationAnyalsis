@@ -11,7 +11,7 @@ Using Exponential Growth we can likely predict the population from a certain yea
     2020      148,012
 """
 
-# From the code, simply change code from the data that you have as shown below.
+# From the code, simply change the code from the data that you have as shown below.
 
 """
     p = Starting Population
