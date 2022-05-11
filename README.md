@@ -1,5 +1,5 @@
 # Population Analysis
-Using Exponential Growth we can likely predict the population from a certain year. This also solves the Average Annual Growth Rate.
+Using **Exponential Growth** we can **likely predict** the **population** from a **certain year**. This also **solves** the **Average Annual Growth Rate**.
 I made this during my free time for our Math Project. I suck at math, however coding helps me emphasize how to solve real life problems
 much easier, and with it, it also helped me how to solve Math Problems. I hope it also helps you too.
 
