@@ -5,9 +5,10 @@ much easier, and with it, it also helped me how to solve Math Problems. I hope i
 
 ```py
 """
-    Year  |   Population
-    2015      131,528
-    2020      148,012
+    Example Data:
+        Year  |   Population
+        2015      131,528
+        2020      148,012
 """
 
 # From the code, simply change the code from the data that you have as shown below.
